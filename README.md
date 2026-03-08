@@ -32,3 +32,12 @@ The goal of this repository is to make Python learning **simple, practical, and 
 ---
 
 ⭐ If you find these notes helpful, consider giving the repository a star.
+---
+
+## Python Notes Index
+
+| Topic | Notes |
+|------|------|
+| Introduction to Python | [View Notes](01-introduction-to-python.md) |
+
+More topics will be added as the repository grows.
