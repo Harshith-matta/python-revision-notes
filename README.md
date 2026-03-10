@@ -39,5 +39,7 @@ The goal of this repository is to make Python learning **simple, practical, and 
 | Topic | Notes |
 |------|------|
 | Introduction to Python | [View Notes](01-introduction-to-python.md) |
+| Control Statements | [View Notes](02-control-statements.md) |
+| Loops | [View Notes](03-loops.md) |
 
 More topics will be added as the repository grows.
