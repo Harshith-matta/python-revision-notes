@@ -134,6 +134,16 @@ The value `2` is skipped.
 
 ---
 
+## Example: Sum of numbers using a loop
+
+```python
+total = 0
+
+for i in range(1, 6):
+    total += i
+
+print(total)
+
 # Summary
 
 Loops are used to repeat actions in a program.
