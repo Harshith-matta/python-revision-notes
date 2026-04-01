@@ -239,4 +239,5 @@ Returns unique random values (no repetition).
   - OTP generation  
   - simulations  
   - games  
-  - probability  
+  - probability
+  - https://1drv.ms/w/c/2e2c693012f1cee2/IQDEoAaV6MsWS6D9j4D7vQZFAZxaAYSTNNeii909SwMrxjw?e=s4GU6i 
